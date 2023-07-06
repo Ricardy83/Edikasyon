@@ -1,0 +1,2 @@
+# Edikasyon
+ Edikasyon se yon baz done kap repetorye lekol ak elev. kote chak elev ap gen yon Id ke system nan jenere pou li sa ap tou nimewo elev la. responsab lekol yo ap gen pou rantre tout not elev yo e sistem nan ap jenere yo mwayen pou li ki ap tou mwayen jeneral lekol la. si tout fwa elev sa ta deside kite lekol li pou li al nan yon lot lap gen poul vini ak Id li epi nouvo lekol la ap gen poul mande ansyen lekol la transfe dosye elev la kap tou gen sistem nan
